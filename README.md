@@ -49,7 +49,6 @@ Phase 3: Train CNN+LSTM on raw signals with unseen-subject evaluation (MotionSen
 Phase 4: Few-shot personalization — adapt pretrained model to a new person
 ```
 
-This structure mirrors how research papers are written: start with the baseline, identify the gap, address it, then extend.
 
 ---
 
